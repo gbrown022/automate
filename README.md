@@ -1,2 +1,4 @@
 # automate
-workfiles from Automate The Boring Stuff with Python
+### notes and project files from Automate The Boring Stuff with Python
+
+## Geoffrey Brown, developer
